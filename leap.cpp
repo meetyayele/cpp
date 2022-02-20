@@ -20,7 +20,7 @@ int main() {
   }
   else {
 
-     std::cout <<y<<" is not a leap yearuuu.\n";
+     std::cout <<y<<" is not a leap year.\n";
 
   }
 
